@@ -66139,7 +66139,7 @@ return A.Ud(new A.Dj(A.vM($.jD(),A.ajP(),t.Oz),p,s),new A.d0(s,s,s,r,q,B.hc,B.a1
 $S:135}
 A.q9.prototype={
 I(a){var s=$.jD()
-return new A.H3(A.a([B.Gd,B.xb,new A.IM(A.vM(s,A.akR(),t.e0),null),new A.Dk(A.vM(s,A.ajP(),t.Oz),null)],t.p),null)}}
+return new A.H3(A.a([B.Gd,new A.IM(A.vM(s,A.akR(),t.e0),null),new A.Dk(A.vM(s,A.ajP(),t.Oz),null),B.xb],t.p),null)}}
 A.mD.prototype={
 az(){return new A.CH(null,null,B.n)}}
 A.CH.prototype={
@@ -66197,7 +66197,7 @@ A.Fn.prototype={
 I(a){var s=null,r=A.dw(20),q=A.a([B.ag,B.bZ],t._)
 return A.lr(!1,s,!0,A.eh(B.aa,A.ep(A.a([A.d9("Download CV",s,s,A.ax(a).p3.ax.Jq(B.h,B.Z,1.2),s,s),B.O9,B.FS],t.p),B.M,B.J,B.a_),B.u,s,s,new A.d0(s,s,s,r,B.hh,new A.fq(B.xg,B.xf,B.V,q,s,s),B.a1),s,s,s,B.F5,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Yk(),s,s,s,s)}}
 A.Yk.prototype={
-$0(){A.kY(A.hf("https://drive.google.com/file/d/1Uk3IOBKSoqlTt2OKxkLRTSd1eYTe58rM/view?usp=sharing",0,null))},
+$0(){A.kY(A.hf("https://drive.google.com/file/d/1eqQIJLPc5xdZJKNYM-GiPo5wyqcU1vmp/view?usp=sharing",0,null))},
 $S:0}
 A.nD.prototype={
 I(a){return new A.it(new A.a2k(this),null)}}
@@ -66332,13 +66332,13 @@ A.a2l.prototype={
 $0(){$.Cu().t1(0,B.bf,B.bh)},
 $S:0}
 A.a2m.prototype={
-$0(){$.Cu().t1(2,B.bf,B.bh)},
+$0(){$.Cu().t1(1,B.bf,B.bh)},
 $S:0}
 A.a2n.prototype={
-$0(){$.Cu().t1(3,B.bf,B.bh)},
+$0(){$.Cu().t1(2,B.bf,B.bh)},
 $S:0}
 A.a2o.prototype={
-$0(){$.Cu().t1(1,B.bf,B.bh)},
+$0(){$.Cu().t1(3,B.bf,B.bh)},
 $S:0}
 A.H3.prototype={
 I(a){var s=null,r=t.w,q=a.M(r).f,p=A.a([!(q.a.a<=700)?B.wo:B.bp,B.O7],t.p)
